@@ -14,5 +14,9 @@ For this assignemnt, we will be using Jest, which is a popular javascript testin
         - `jest` - this is the command to run tests using jest.
         - `--watch` - the watch option will rerun the tests everytime you save a file.
 - To quit the test runner, hit `q` in the terminal where `jest` is running.
+- Do the assignments in this order:
+    - `fizzbuzz.js`
+    - `kebabize.js`
+    - `expandNumber.js`
 - Once you've passed the first test, change the next test from `test.skip(...)` to `test(...)`.
 - Have fun! And enjoy the dopamines that come with seeing green!
