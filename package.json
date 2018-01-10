@@ -1,0 +1,13 @@
+{
+  "name": "tdd-with-jest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ThoughtWorks",
+  "license": "MIT",
+  "scripts": {
+  "test": "jest --watch"
+  },
+  "dependencies": {
+    "jest": "^22.0.5"
+  }
+}
