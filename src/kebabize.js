@@ -5,8 +5,8 @@ kebabize('camelsHaveThreeHumps') // camels-have-three-humps
 kebabize('camelsHave3Humps') // camels-have-humps
 */
 
-function kebabize() {
-    
+function kebabize(input) {
+
 }
 
 module.exports = kebabize
