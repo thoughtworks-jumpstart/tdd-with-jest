@@ -21,3 +21,6 @@ For this assignemnt, we will be using Jest, which is a popular javascript testin
     - `expandNumber.js`
 - Once you've passed the first test, change the next test from `test.skip(...)` to `test(...)`.
 - Have fun! And enjoy the dopamines that come with seeing green!
+
+---
+Copyright (c) 2018 ThoughtWorks. For personal use and training purposes only; not to be copied or distributed without further approval.
