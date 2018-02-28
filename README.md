@@ -5,7 +5,9 @@ Let's get good at TDD! Work through the katas in this repo and practice your TDD
 For this assignemnt, we will be using Jest, which is a popular javascript testing framework created and used by Facebook. 
 
 ### Instructions
-- Clone the repo, `cd` into the repo
+- Fork the repo
+- Clone the repo
+- `cd` into the repo
 - Run `yarn install`
     - this will install the dependencies listed in `package.json` (for this assignment, it's only `jest`)
 - The description for each kata is described in the respective files in `src/`. The corresponding tests are in `test/filename.test.js`. Implement the function to make the tests pass.
