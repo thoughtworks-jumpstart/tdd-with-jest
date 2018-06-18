@@ -9,7 +9,8 @@
     "test:watch": "jest --watch",
     "test:coverage": "jest --coverage"
   },
-  "devDependencies": {
-    "jest": "^22.0.5"
+  "devDependencies": {},
+  "dependencies": {
+    "jest": "^23.1.0"
   }
 }
