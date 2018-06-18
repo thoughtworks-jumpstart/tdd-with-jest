@@ -23,5 +23,12 @@ For this assignemnt, we will be using Jest, which is a popular javascript testin
 - Once you've passed the first test, change the next test from `test.skip(...)` to `test(...)`.
 - Have fun! And enjoy the dopamines that come with seeing green!
 
+#### Troubleshooting
+- If you were running `yarn test:watch` and your code was inadvertently caught in an infinite loop which results in Jest not finishing the tests.  
+    - Run `ps aux | grep jest`
+    - Take note of the process number `Jan              85451   0.4  0.7  4984888  56056 s003  S+    2:47PM   0:01.63 node /Users/Jan/Documents/Jumpstart/Code/tdd-with-jest/node_modules/.bin/jest --watch`
+    - In this case, the process number is 85451
+    - Then run `kill -9 85451` to kill the process
+
 ---
 Copyright (c) 2018 ThoughtWorks. For personal use and training purposes only; not to be copied or distributed without further approval.
