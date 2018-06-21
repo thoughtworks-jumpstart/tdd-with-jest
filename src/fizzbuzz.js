@@ -1,4 +1,4 @@
-/* FizzBuzz. 
+/* FizzBuzz.
 
 For a given natural number greater than zero return:
 - 'fizz' if the number is dividable by 3
