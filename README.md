@@ -55,4 +55,4 @@ testing framework created and used by Facebook.
 	balance before depositing is 5000 or more
 
 - Update the `withdraw()` method so that it does nothing when the account
-	balance before depositing is 0 or less
+	balance before withdrawing is 0 or less
