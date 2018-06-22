@@ -1,5 +1,7 @@
 # TDD with Jest
 
+**This contains the solutions**. [See the original code here][master]
+
 Let's get good at TDD! Work through the katas in this repo and practice your
 TDD chops. 
 
@@ -56,3 +58,5 @@ testing framework created and used by Facebook.
 
 - Update the `withdraw()` method so that it does nothing when the account
 	balance before withdrawing is 0 or less
+
+[master]: https://github.com/thoughtworks-jumpstart/tdd-with-jest
