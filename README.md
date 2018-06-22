@@ -46,3 +46,13 @@ testing framework created and used by Facebook.
   to `test(...)`.
 
 - Have fun! And enjoy the dopamines that come with seeing green!
+
+## Part 2: Testing state
+
+- Add tests for the methods in `account.js`
+
+- Update the `deposit()` method so that it does nothing when the account
+	balance before depositing is 5000 or more
+
+- Update the `withdraw()` method so that it does nothing when the account
+	balance before depositing is 0 or less
